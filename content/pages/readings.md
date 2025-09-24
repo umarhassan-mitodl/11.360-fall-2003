@@ -275,7 +275,7 @@ Project Workshop Day
 Sprawl and the Evolution of Suburbia
 {{< tdclose >}}{{< tdopen >}}
 
-Project Team Discussions with Instructor and Client Liaisons. Scan through sprawl and smart growth web sites and links, such as [Sprawl Watch clearing house](http://www.sprawlwatch.org/), [Smart Growth Online](http://www.smartgrowth.org/), [Planners Web](http://plannersweb.com/), [SuburbanSprawl](http://www.mstl.org/). 
+Project Team Discussions with Instructor and Client Liaisons. Scan through sprawl and smart growth web sites and links, such as {{% resource_link "72a40864-574c-438b-9d5d-f6c67872bd88" "Sprawl Watch clearing house" %}}, {{% resource_link "122883f2-d2ac-4ece-a9ef-d6fe88590e7a" "Smart Growth Online" %}}, {{% resource_link "0fa27307-95b4-4dbb-8574-4d0e81da1f55" "Planners Web" %}}, {{% resource_link "a930d9e1-4c9c-4b38-8c6c-adb3fce7c853" "SuburbanSprawl" %}}. 
 
 Kunstler, James Howard. "The Evil Empire." Chap. 7 in *The Geography of Nowhere.* Simon & Schuster, New York: Touchstone, 1994, pp. 113-131. This book is worth purchasing and reading in entirety.
 
@@ -333,7 +333,7 @@ Knapp, Keith, K. "Traffic-Calming Basics." *Civil Engineering*. New York: Jan 20
 
 Hoyle, Cynthia L. *Traffic Calming.* Planners Advisory Service Report #456, American Planning Association. Jul 1995. This publication has been placed on reserve at the Rotch Library. (Skim through for a sense of the concept and various techniques.)
 
-The Federal Highway Administration (FHWA) inaugurated a new website dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming. See [Traffic Calming](http://safety.fhwa.dot.gov/speedmgt/traffic_calm.cfm). Traffic Calming guru, Heidi Richards of VHB, will speak about this topic.
+The Federal Highway Administration (FHWA) inaugurated a new website dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming. See {{% resource_link "1c487dc2-7008-400a-a916-78e536a62f54" "Traffic Calming" %}}. Traffic Calming guru, Heidi Richards of VHB, will speak about this topic.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
