@@ -5,6 +5,8 @@ description: This memo will serve to convey expectations and requirements regard
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/7e7f2b0cbc2b58b84ce5b78e31641363_final_report_and_paper.pdf
 file_size: 82846
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

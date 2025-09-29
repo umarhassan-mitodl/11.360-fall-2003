@@ -4,6 +4,8 @@ description: Visiting Lecture
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/1ca87b195641124f176867f4a7b5c1a6_the_art_of_swamp_yankee_making.pdf
 file_size: 367307
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

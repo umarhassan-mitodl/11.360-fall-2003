@@ -7,6 +7,8 @@ description: This report is the outcome of the graduate course Community Growth 
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/e584c500b08514558dc310ea91429b4e_team2.pdf
 file_size: 2288163
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

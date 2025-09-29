@@ -9,6 +9,8 @@ description: This document, commissioned by the Town of Needham Planning Board, 
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/2dd93895e8d4bdeb37422e87e944e395_team3.pdf
 file_size: 1544743
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

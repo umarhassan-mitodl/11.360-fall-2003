@@ -4,6 +4,8 @@ description: Visiting Lecturer's presentation slides.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/f7481654109d848bd50897b96b26ebbb_philherr.pdf
 file_size: 1495992
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Presentation slides on Needham.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/fbfacd8bce3d5b0610a68dc625bc2dae_leenewman.pdf
 file_size: 3138653
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
